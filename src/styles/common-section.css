@@ -1,0 +1,15 @@
+.common__section {
+  background: linear-gradient(rgba(75, 75, 75, 0.311), rgba(76, 76, 76, 0.411)),
+    url("https://mir-s3-cdn-cf.behance.net/project_modules/fs/80bdff169143817.6447d31b0b19d.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 80px 0px;
+  height: 50vh;
+}
+
+.common__section h1{
+  border: 3px solid white;
+  padding: 2% 0;
+  background-color: rgba(75, 75, 75, 0.546);
+}

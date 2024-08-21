@@ -1,0 +1,27 @@
+.payment{
+  border: 1px solid white;
+  display: flex;
+  justify-content: start;
+  /* padding: 2% 0%; */
+}
+
+.payment label {
+  font-weight: 600;
+  margin: 2% 0;
+  /* color: #000d6b; */
+}
+
+.payment input{
+  margin-left: 5%;
+
+}
+
+.payment button {
+  width: 100%;
+  padding: 8px 15px;
+  border-radius: 5px;
+  background: #000d6b;
+  color: #fff;
+  border: none;
+  outline: none;
+}
